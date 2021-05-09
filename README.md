@@ -9,6 +9,7 @@ Common functions implemented using recursion
 - map
 - filter
 - flatten
+- reverse
 
 ### Suggestions?
 
